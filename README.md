@@ -80,3 +80,4 @@ app/
 │   └── mesh.py
 │
 └── main.py
+Submission check trigger - SmartReco AI
